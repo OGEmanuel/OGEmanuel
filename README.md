@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emmanuel
-- 👀 I’m interested in Web Development, Football, Movies, Academics, Food...
+- 👀 I’m interested in Web Development, The British Accent, Football, Movies, Academics, Food...
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Frontend Projects
 - 📫 How to reach me 
