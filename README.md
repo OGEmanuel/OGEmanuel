@@ -38,7 +38,7 @@ I'm a frontend developer with a passion for creating beautiful and responsive us
 
 ### Frontend Developer at Capriquota
 
-** Jan 2023 - Present **
+**Jan 2023 - Present**
 
 * Built and maintained multiple web applications using React.js, Redux, and Tailwind.
 * Collaborated with designers and back-end developers to ensure seamless integration of frontend and backend functionality.
@@ -46,7 +46,7 @@ I'm a frontend developer with a passion for creating beautiful and responsive us
 
 ### Frontend Inter at Dev Careers
 
-** Sept 2022 - Dec 2022 **
+**Sept 2022 - Dec 2022**
 
 * Assisted in the development of new user-facing features using React and Redux, resulting in a 15% increase in customer satisfaction.
 * Worked on the development of new user-facing features using React, resulting in 5% increase in user engagement.
@@ -61,6 +61,7 @@ I'm a frontend developer with a passion for creating beautiful and responsive us
 ## Contact
 
 * Email: emanuolumide@gmail.com
-* LinkedIn: Your [LinkedIn Profile](https://www.linkedin.com/in/emmanuel-ogunmola-a5007a1a6/))
-* Personal Website: Your [Website](https://emanueldev.netlify.app/)
+* [LinkedIn](https://www.linkedin.com/in/emmanuel-ogunmola-a5007a1a6/)
+* [Personal Website](https://emanueldev.netlify.app/)
+
 Feel free to get in touch if you have any questions or if you'd like to collaborate on a frontend development project!
