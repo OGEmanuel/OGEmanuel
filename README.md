@@ -21,7 +21,7 @@ I'm a frontend developer with a passion for creating beautiful and responsive us
 
 * HTML5, CSS3, JavaScript
 * React.js, Next.js
-* CSS frameworks such as Bootstrap and Tailwind
+* CSS frameworks such as Tailwind
 * Build tools such as Webpack and Vite
 * Version control systems such as Git and GitHub
 
