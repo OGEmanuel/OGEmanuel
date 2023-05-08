@@ -40,9 +40,10 @@ I'm a frontend developer with a passion for creating beautiful and responsive us
 
 **Jan 2023 - Present**
 
-* Built and maintained multiple web applications using React.js, Redux, and Tailwind.
-* Collaborated with designers and back-end developers to ensure seamless integration of frontend and backend functionality.
-* Improved website performance by implementing optimizations such as code splitting, lazy loading, and caching.
+* Worked independently as a remote developer, collaborating with team to develop and maintain a web application
+* Implemented server-side rendering using Next.js to improve initial page load times by 40%
+* Collaborated with UI/UX team to design and implement an intuitive user interface and achieved a 20% increase in user engagement 
+
 
 ### Frontend Inter at Dev Careers
 
