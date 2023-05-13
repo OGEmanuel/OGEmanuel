@@ -20,7 +20,7 @@ I'm a frontend developer with a passion for creating beautiful and responsive us
 ## Technical Skills
 
 * HTML5, CSS3, JavaScript
-* React.js, Next.js
+* React.js, Next.js, Redux, Framer Motion
 * CSS frameworks such as Tailwind
 * Build tools such as Webpack and Vite
 * Version control systems such as Git and GitHub
@@ -45,7 +45,7 @@ I'm a frontend developer with a passion for creating beautiful and responsive us
 * Collaborated with UI/UX team to design and implement an intuitive user interface and achieved a 20% increase in user engagement 
 
 
-### Frontend Inter at Dev Careers
+### Frontend Intern at Dev Careers
 
 **Sept 2022 - Dec 2022**
 
