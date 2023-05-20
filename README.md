@@ -19,9 +19,9 @@ I'm a frontend developer with a passion for creating beautiful and responsive us
 
 ## Technical Skills
 
-* HTML5, CSS3, JavaScript
+* JavaScript
 * React.js, Next.js, Redux, Framer Motion
-* CSS frameworks such as Tailwind
+* CSS frameworks such as Tailwind and SASS
 * Build tools such as Webpack and Vite
 * Version control systems such as Git and GitHub
 
@@ -40,18 +40,20 @@ I'm a frontend developer with a passion for creating beautiful and responsive us
 
 **Jan 2023 - Present**
 
-* Worked independently as a remote developer, collaborating with team to develop and maintain a web application
-* Implemented server-side rendering using Next.js to improve initial page load times by 40%
-* Collaborated with UI/UX team to design and implement an intuitive user interface and achieved a 20% increase in user engagement 
+* Developed a responsive UI using React for a mobile-first web application
+* Collaborated with senior developers in reducing development time by 25%, making use of technologies like React and Redux
+* Collaborated with the product design team to design and implement an intuitive user interface and achieved a 20% increase in user engagement
+ 
 
 
 ### Frontend Intern at Dev Careers
 
 **Sept 2022 - Dec 2022**
 
-* Assisted in the development of new user-facing features using React and Redux, resulting in a 15% increase in customer satisfaction.
-* Worked on the development of new user-facing features using React, resulting in 5% increase in user engagement.
-* Collaborated with senior developers to develop responsive web applications that were optimised for different screen sizes. 
+* Collaborated with senior developers to assist in developing responsive websites using HTML, CSS, and JavaScript.
+* Assisted in developing and maintaining front-end components of web applications using modern frameworks like React.
+* Collaborated with senior developers to develop responsive web applications that were optimised for different screen sizes
+ 
 
 
 ## Education
