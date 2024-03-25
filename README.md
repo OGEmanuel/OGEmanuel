@@ -54,8 +54,8 @@ I'm a frontend developer with a passion for creating beautiful and responsive us
 
 ## Contact
 
-* Email: [Mail](mailto:emanuolumide@gmail.com)
-* LinkedIn: [LinkedIn](https://www.linkedin.com/in/emmanuel-ogunmola-a5007a1a6/)
-* Portfolio Website: [Personal Website](https://emanueldev.netlify.app/)
+* [Email](mailto:emanuolumide@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/emmanuel-ogunmola-a5007a1a6/)
+* [Portfolio Website](https://emanueldev.netlify.app/)
 
 Feel free to get in touch if you have any questions or if you'd like to collaborate on a frontend development project!
