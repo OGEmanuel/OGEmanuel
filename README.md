@@ -12,7 +12,7 @@ I'm a frontend developer with a passion for creating beautiful and responsive us
 ## Projects
 * [API Tester](https://my-api-tester.vercel.app/): A web application built with HTML, CSS and JavaScript that tests API endpoints.
 * [Code Editor](https://my-code-editor-five.vercel.app/): A web application built with HTML, CSS and JavaScript that can be used to write code.
-* [My Portfolio](https://emanueldev.netlify.app/): My Portfolio website, built with modern React.JS and Tailwind CSS with a sprinkle of FramerMotion for animation.
+* [My Portfolio](https://emanueldev-v2.vercel.app/): My Portfolio website, built with modern React.JS and Tailwind CSS with a sprinkle of FramerMotion for animation.
 * [Awaskill](https://awaskill.vercel.app/): A Web application built with NextJS, Tailwind CSS and FramerMotion that helps tech enthusiasts choose a path in tech.
 * [User Dashboard](https://emmanuel-ogunmola-lendsqr-fe-test.vercel.app/): This project is a clone of the Lendsqr Admin Console, designed to showcase proficiency in frontend development. It includes four main pages: Login, Dashboard, User Page, and User Details Page. The design and functionality closely resemble the original Lendsqr Admin Console, providing a seamless user experience.
 ## Work Experience
@@ -56,6 +56,6 @@ I'm a frontend developer with a passion for creating beautiful and responsive us
 
 * [Email](mailto:emanuolumide@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/emmanuel-ogunmola-a5007a1a6/)
-* [Portfolio Website](https://emanueldev.netlify.app/)
+* [Portfolio Website](https://emanueldev-v2.vercel.app/)
 
 Feel free to get in touch if you have any questions or if you'd like to collaborate on a frontend development project!
